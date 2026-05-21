@@ -1,6 +1,6 @@
 # Anotações
 
-(web)[https://lsbrelww.github.io/anotacoes/]
+[web](https://lsbrelww.github.io/anotacoes/)
 
 Documentação para preenchimento diário e supostamente constante dos desenvolvimentos, atividades, iniciativas e conversas realizadas dentro do ambiente de trabalho Madeira Madeira, bem como também, comentários de cunho menos formal para trazer uma visão pessoal e critíca sobre alguns pontos dos tópicos citados.
 
