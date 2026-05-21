@@ -1,0 +1,7 @@
+[book]
+title = "Anotações - Madeira Madeira"
+authors = ["lsbrelww"]
+language = "pt-br"
+
+[output.html]
+default-theme = "Ayu"
