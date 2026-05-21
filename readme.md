@@ -1,5 +1,7 @@
 # Anotações
 
+(web)[https://lsbrelww.github.io/anotacoes/]
+
 Documentação para preenchimento diário e supostamente constante dos desenvolvimentos, atividades, iniciativas e conversas realizadas dentro do ambiente de trabalho Madeira Madeira, bem como também, comentários de cunho menos formal para trazer uma visão pessoal e critíca sobre alguns pontos dos tópicos citados.
 
 Este projeto, é uma continucação direta de sua versão "plugada", na maquina local do usuário lsbrelww(eu) onde eram regidas algumas documentações, tanto das minhas atividades, quando de conversas que ocorriam internamente, quando digo conversas me refiro a reuniões e calls para resolução de determinadas demandas.
